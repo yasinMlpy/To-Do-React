@@ -1,0 +1,46 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 15px ;
+    font-size: 22px;
+}
+
+#a1{
+    width: 300px;
+    height: 25px;
+    transition: all 0.8s ease;
+}
+
+#text{
+    color: rgb(17, 204, 126);
+    transition: all 0.8s ease;
+}
+
+#a1:hover{
+    transform: translateY(-10px);
+    border: 2px solid black;
+    box-shadow: 0 0px 10px 2px rgba(59, 59, 59, 1);
+}
+
+#ko{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#j1{
+    border: none;
+    width: 30px;
+    height: 30px;
+    color: rgb(17, 204, 126);
+    background-color: black;
+    border-radius: 5px;
+    transition: all 0.5s ease;
+}
+
+#j1:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 0 8px 1px rgb(8, 201, 40);
+}
