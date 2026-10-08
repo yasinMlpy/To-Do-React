@@ -22,4 +22,6 @@ This is a practice project created to improve my React and JavaScript skills. I 
 
 This is a **practice project** created to learn and improve my skills in React, JavaScript, and working with the DOM
 
+you need install react on your project and add these files.
+
 Created by "yasinMlpy"
